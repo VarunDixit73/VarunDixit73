@@ -1,8 +1,11 @@
 # 💫About Me :
 I am currently working on Data Science and Machine Learning using Python.
-Studying Bachelors of Technology (Information Technology) at BBDNITM
-I am IBM certified for Data Science with Python
-Intern at Digipodium
+
+Studying Bachelors of Technology (Information Technology) at BBDNITM.
+
+I am IBM certified for Data Science with Python.
+
+Intern at Digipodium.
 
 
 ## 🌐Socials
